@@ -1,5 +1,22 @@
 # Bone Fracture Detection from X-ray Images
 
+Digital Image Processing + Machine Learning Project
+
+Accuracy: 80.25%
+
+## Original X-ray
+
+![Original](images/original_xray.png)
+
+## Edge Detection
+
+![Edge](images/canny_edge.png)
+
+## Results
+
+![CM](images/confusion_matrix.png)
+# Bone Fracture Detection from X-ray Images
+
 ## Project Overview
 
 This project detects bone fractures from X-ray images using Digital Image Processing and Machine Learning.
