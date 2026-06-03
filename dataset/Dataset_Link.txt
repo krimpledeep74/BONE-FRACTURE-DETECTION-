@@ -1,2 +1,0 @@
-Bone Fracture Dataset
-Download from Kaggle.
